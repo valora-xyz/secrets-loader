@@ -41,6 +41,6 @@
     "jest": "^30.3.0",
     "commit-and-tag-version": "^12.5.0",
     "ts-jest": "^29.4.6",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.2"
   }
 }
