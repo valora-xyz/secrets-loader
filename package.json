@@ -27,7 +27,7 @@
   "homepage": "https://github.com/valora-inc/secrets-loader#readme",
   "dependencies": {
     "@google-cloud/secret-manager": "^7.1.1",
-    "dotenv": "^18.0.4"
+    "dotenv": "^18.0.5"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
